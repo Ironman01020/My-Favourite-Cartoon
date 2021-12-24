@@ -1,0 +1,31 @@
+body {
+    background-color: orange;
+    text-align: center;
+}
+
+#ZARA {
+    border-width: 5px;
+    border-color: white;
+    border-style: solid;
+    color: #000B49;
+}
+
+#img {
+    border: 9px ridge white;
+    border-radius: 30px;
+    padding-top: 20px;
+    margin-bottom: 50px;
+}
+
+a {
+    font-size: 25px;
+    border: 3px solid white;
+    padding: 8px;
+    border-radius: 30px;
+}
+
+#para {
+    color: darkblue;
+    font-size: 20px;
+    font-variant: small-caps;
+}
